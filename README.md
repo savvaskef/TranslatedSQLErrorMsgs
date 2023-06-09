@@ -1,6 +1,6 @@
 # TranslatedSQLErrorMsgs
-dll to translate error messages for both Oracle and MS-SQL.(includes calls to system tables)
-This is a library(.dll)gg that translates errors made by sql statements in greek.<br>
+dll to translate error messages for both Oracle and MS-SQL.(includes calls to *system tables* which are different in each provider)
+'Tis a library(.dll) that unifies and translates errors made by sql statements in greek.<br>
 
 the procedure you are seeking is :<br>
   public static string treatErrors(string errorMessage, string connectionString, WhichDatabase db, out Dictionary<string, string> MyDictionary)
