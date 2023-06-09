@@ -1,0 +1,16 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\ErrorCaller.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\ErrorCaller.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\dberrors4dll.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\dberrors4dll.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\ErrorCaller.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\ErrorCaller.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\dberrors4dll.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\bin\Debug\dberrors4dll.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.csproj.AssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.csproj.CoreCompileInputs.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.csproj.CopyComplete
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\ErrorCaller\obj\x86\Debug\ErrorCaller.pdb

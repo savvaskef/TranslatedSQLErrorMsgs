@@ -1,0 +1,9 @@
+c:\users\savvas.mik3\documents\visual studio 2010\Projects\dberrors4dll\dberrors4dll\bin\Debug\dberrors4dll.pdb
+c:\users\savvas.mik3\documents\visual studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\savvas.mik3\documents\visual studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\dberrors4dll.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\dberrors4dll\bin\Debug\dberrors4dll.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\dberrors4dll.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\dberrors4dll.csproj.AssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\dberrors4dll.csproj.CoreCompileInputs.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\dberrors4dll.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\dberrors4dll\dberrors4dll\obj\x86\Debug\dberrors4dll.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dberrors4dll", "dberrors4dll\dberrors4dll.csproj", "{F364969F-D8A7-488A-86F7-6FB3262F2078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorCaller", "ErrorCaller\ErrorCaller.csproj", "{B35D5E7B-B65E-4626-AF62-E0A0E296A125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F364969F-D8A7-488A-86F7-6FB3262F2078}.Debug|x86.ActiveCfg = Debug|x86
+		{F364969F-D8A7-488A-86F7-6FB3262F2078}.Debug|x86.Build.0 = Debug|x86
+		{F364969F-D8A7-488A-86F7-6FB3262F2078}.Release|x86.ActiveCfg = Release|x86
+		{F364969F-D8A7-488A-86F7-6FB3262F2078}.Release|x86.Build.0 = Release|x86
+		{B35D5E7B-B65E-4626-AF62-E0A0E296A125}.Debug|x86.ActiveCfg = Debug|x86
+		{B35D5E7B-B65E-4626-AF62-E0A0E296A125}.Debug|x86.Build.0 = Debug|x86
+		{B35D5E7B-B65E-4626-AF62-E0A0E296A125}.Release|x86.ActiveCfg = Release|x86
+		{B35D5E7B-B65E-4626-AF62-E0A0E296A125}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
