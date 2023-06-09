@@ -5,11 +5,13 @@ This is a library(.dll)gg that translates errors made by sql statements in greek
 the procedure you are seeking is :<br>
   public static string treatErrors(string errorMessage, string connectionString, WhichDatabase db, out Dictionary<string, string> MyDictionary)
      <br>
-the errorMessagage is the original message, the connectionString is helping to connect to the database and is used to look up system tables that 
+the errorMessagage is the original message, the connectionString is helping to connect to the database and is used to look up *system tables* that 
 contain information included in the message. MyDictionary will pass you extra information abou the error and db specifies the version of SQL Used.<br>
 Currently supported are Oracle and SQL as defined in the type(WhichDatabase) of db argument which can take the values of :<br>
-public enum WhichDatabase { ORACLEdatabase, SQLdatabase }.
-
+public enum WhichDatabase { ORACLEdatabase, SQLdatabase }
 <br>
+You may run the .sln file in visual studio and try experimenting with ErrorCaller project
+or readily declare the treaterrors function in your code currently found in:<br>
+./dberrors4dll/bin/Debug/
 
 
